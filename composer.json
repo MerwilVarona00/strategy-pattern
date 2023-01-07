@@ -1,0 +1,15 @@
+{
+    "name": "pc/strategy",
+    "autoload": {
+        "psr-4": {
+            "Strategy\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Merwil",
+            "email": "varona.merwil@auf.edu.ph"
+        }
+    ],
+    "require": {}
+}
